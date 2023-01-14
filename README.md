@@ -15,7 +15,7 @@ I Sumit goswami , here I am to develop my skills , and make work as a player <br
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sumit-7Goswami&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Sumit- I feels ??
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
