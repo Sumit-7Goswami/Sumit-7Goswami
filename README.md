@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learning js/ c++  .<br>💬 Ask me about - nope it handlle anymore!<br>⚡ Fun fact - I am deep through enough :)
+🔭 I’m currently Learning c/c++  .<br>💬 Ask me about - nope it handlle anymore!<br>⚡ Fun fact - I am deep through enough :)
 
 
 ## 🌐 Socials:
