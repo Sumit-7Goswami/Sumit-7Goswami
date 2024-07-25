@@ -1,5 +1,5 @@
  # 💫 About Me:
-🔭 I’m currently Learning java  .<br><br>💬 Ask me about - nope it can't handlle anymore!<br><br>⚡ Fun fact - I am deep through enough  :)
+🔭 I’m currently Learning MERN .<br><br>💬 Ask me about - nope it can't handlle anymore!<br><br>⚡ Fun fact - I am deep through enough  :)
 
 
 ## 🌐 Socials:
